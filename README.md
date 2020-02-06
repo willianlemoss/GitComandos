@@ -42,4 +42,15 @@ git log
 
 # gir remote -v (Visualiza os repozitorios remotos)
 # git remote add origin https://github.com/willianlemoss/GitComandos.git
-# git push -u origin master
+# git push (-u origin master apenas na primeira vez)
+
+- [] comandos extras
+# git config credential.helper store (usuario e senha para não ficar digitando direto)
+# git commit -am "" (adiciona e faz o commit junto)
+
+- [] Você vai pegar um projeto já inicializado, para trabalhar com o time
+
+# git clone link do projeto (Pega io projeto da nuvem)
+
+- [] Você precisa resolver um conflito
+# git checkout -b NOME (Cria uma linha do tempo para teste)
