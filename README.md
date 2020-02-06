@@ -54,3 +54,9 @@ git log
 
 - [] Você precisa resolver um conflito
 # git checkout -b NOME (Cria uma linha do tempo para teste)
+
+- [] Antes de enviar a resolução, precisamos atualiza o projeto local
+# git pull
+
+- [] você precisa voltar um arquivo para determinado momento ou recuperar algo deletado da linha do tempo
+# git checout codigo do commit( volta no tempo)
