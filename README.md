@@ -13,6 +13,7 @@ git log
 
 # git init (Inicializa o git)
 # git add ARQUIVO (Adiciona o arquivo)
+# git add .(Adiciona todas as auterações)
 # git commit -m "menssagem" (Envia o arquivo)
 
 - [] Você deseja verificar mudanças feitas no seu projeto
@@ -39,6 +40,6 @@ git log
 
 - [] Você quer colocar seu projeto na nuvem
 
-# git remote add origin https://github.com/Williannlemoss/FuncionalidadesGit.git (Adiciona na nuvem)
 # gir remote -v (Visualiza os repozitorios remotos)
-# git push -u origin master (Envia os arquivos para a nuvem)
+# git remote add origin https://github.com/willianlemoss/GitComandos.git
+# git push -u origin master
